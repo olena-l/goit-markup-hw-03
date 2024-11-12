@@ -1,0 +1,156 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #404bbf;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.logo .logo-dark {
+  color: #2e2f42;
+}
+
+.logo .logo-dark:hover,
+.logo .logo-dark:focus,
+.nav-item:focus {
+  color: #404bbf;
+}
+
+.button:hover {
+  background-color: #404bbf;
+}
+
+.button:focus {
+  background-color: #404bbf;
+}
+
+.logo .logo-light {
+  color: #f4f4fd;
+}
+
+.address-contacts {
+  font-style: normal;
+}
+.nav-item {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+/* .nav-item:hover {
+  color: #404bbf;
+} */
+
+.nav-contacts {
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.nav-item:hover,
+.nav-contacts:hover,
+.nav-contacts:focus {
+  color: #404bbf;
+}
+
+.page-title {
+  font-family: inherit;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+  background-color: #2e2f42;
+}
+
+.button {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+.subtitle {
+  font-family: inherit;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.subtitle-team,
+.subtitle-portfolio {
+  text-transform: capitalize;
+}
+
+.subtitle-item {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.subtitle-text {
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.section-title {
+  background-color: #2e2f42;
+}
+
+.section-principles {
+  background-color: inherit;
+}
+
+.section-team {
+  background-color: #f4f4fd;
+}
+
+.card-color {
+  background-color: #fff;
+}
+
+.footer-background {
+  background-color: #2e2f42;
+}
+
+.footer-subtitle-text {
+  color: #f4f4fd;
+}
