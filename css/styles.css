@@ -198,6 +198,7 @@ img {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #2e2f42;
   margin-bottom: 8px;
 }
@@ -272,8 +273,7 @@ img {
   justify-content: center;
   flex-direction: column;
   gap: 8px;
-  border-radius: 0 0 4px 4px;
-  /* padding: 0px 0px 32px 0px; */
+  border-radius: 0px 0px 4px 4px;
 }
 
 .section-portfolio {
